@@ -14,7 +14,8 @@ import tt.tt.NewTest;
 	 System.out.println("new code added");
 	 System.out.println("done by tt");
 	 System.out.println("done by tt");
-	  
+	 System.out.println("message1 by branch	");
+	 System.out.println("message 2 by branch");
   }
   
 }
